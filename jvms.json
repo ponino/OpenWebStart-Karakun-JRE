@@ -1,0 +1,11 @@
+{
+    "cacheTimeInMillis":5000,
+    "runtimes":[
+        {
+            "version":"1.8.0_292",
+            "vendor":"Amazon.com Inc.",
+            "os":"WIN64",
+            "href":"https://corretto.aws/downloads/latest/amazon-corretto-8-x64-windows-jre.zip"
+        }
+    ]
+}
